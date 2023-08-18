@@ -1,1 +1,10 @@
+# My virtual environments
 dd_env/
+
+# Large MRI data files
+mrlEyes_2018_01/
+
+# Built python modules and packages
+*.pyc
+*.pyo
+__pycache__/
